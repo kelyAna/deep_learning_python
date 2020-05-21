@@ -1,2 +1,2 @@
 # deep_learning_python
-Curso de Deep Learning com Python de A a Z
+Este repositório contém atividaddes práticas do curso de Deep Learning com Python da udemy, onde realizo a resolução de alguns problemas da plataforma Kaggle e UCI procurando sempre melhores performaces para as resoluções.
